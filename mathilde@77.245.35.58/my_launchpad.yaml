@@ -1,0 +1,6 @@
+host: localhost
+port: 27017
+name: fireworks_dev
+username: adminUser
+password: dweib2022
+authsource: admin
